@@ -1,0 +1,17 @@
+{
+    "name": "starryseer\/google",
+    "description": "a google pay and login",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "starryseer",
+            "email": "850812313@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Starryseer\\Google\\": "src"
+        }
+    }
+}
